@@ -12,8 +12,8 @@
                 constraint lang_id_pk primary key(language_id),
                 constraint lang_ck check (languages in ('Tamil','English','Hindi'))
                 );
-    ```                         
+                           
   Query:
-  ```sql
+  
     select * from languages;
 ```
