@@ -11,7 +11,8 @@
                 languages varchar2(50) not null,
                 book_count number,
                 constraint lang_id_pk primary key(language_id),
-                constraint lang_uq unique (languages)
+                constraint lang_uq unique (languages),
+                constraint lang_ck check (languages in ('Tamil','English','Hindi'))
                 );
                 
                 
