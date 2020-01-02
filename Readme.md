@@ -25,9 +25,9 @@
   
 | Book_id | Book_name                             | Book_author     | Book_language | Book_type  | Book_uploaded_on |
 |---------|---------------------------------------|-----------------|---------------|------------|------------------|
-| 1       | Harry Potter: The Complete Collection | J.K.Rowling     | English       | Fantasy    | 10/04/2013       |
-| 2       | Twilight                              | Stephenie meyer | English       | Romance    | 21/08/2015       |
-| 3       | Uravumuraigal                         | Preman          | Tamil         | Literature | 07/03/2018       |
+| 1       | Harry Potter: The Complete Collection | J.K.Rowling     | English       | Fantasy    | 10-JAN-13        |
+| 2       | Twilight                              | Stephenie meyer | English       | Romance    | 21-DEC-15        |
+| 3       | Uravumuraigal                         | Preman          | Tamil         | Literature | 07-MAY-18        |
 
 
   
