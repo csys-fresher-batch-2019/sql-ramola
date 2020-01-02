@@ -33,29 +33,7 @@
 | 3       | Uravumuraigal                         | Preman          | Tamil         | Literature | 07-MAY-18        |
   
 ```
-#### Feature 2: List of book types available
-
-```sql
-
-create table book_type(book_id number,
-            book_type varchar2(50) not null,
-            constraint book_id_fk foreign key(book_id));
-
-Query:
-
-  Select * from book_type;
-  
-Table:
-
-| Book_id | Book_type  |
-|---------|------------|
-| 1       | Fantacy    |
-| 2       | Romance    |
-| 3       | Literature |
-
-```
-  
-#### Feature 3: List of users given rating
+#### Feature 2: List of users given rating
 
 ```sql
 
